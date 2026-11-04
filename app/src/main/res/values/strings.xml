@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KIARA AI</string>
+    <string name="accessibility_description">Lets Kiara press buttons, scroll, go Home/Back and read on-screen text, only when you ask her to and only if you turned on screen control inside the Kiara app. Password fields are never read.</string>
+</resources>
